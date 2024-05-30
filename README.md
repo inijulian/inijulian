@@ -7,7 +7,6 @@
   <em>
         a student who loves and learns web programming.
   <br>
-  <br>
   <b><i>"--- If You Work Hard, You Can Eat Delicious Food ---"</i></b>
 </p>
 
