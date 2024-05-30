@@ -40,4 +40,4 @@
 </div>
   <br>
 
-  <h5 align="right>Created with 🖤 by <a href="https://github.com/inijulian">Julian Raditya</a></h5>
+  <h5 align="right">Created with 🖤 by <a href="https://github.com/inijulian">Julian Raditya</a></h5>
