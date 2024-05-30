@@ -11,8 +11,7 @@
 </p>
 
 ---
-
-<h3> Connect with me <h3>
+<h3> Connect with me </h3>
 
 <div>
   <div id="gmail">
