@@ -7,15 +7,16 @@
   <em>
         a student who loves and learns web programming.
   <br>
-  <b><i>"---If You Work Hard, You Can Eat Delicious Food---"</i></b>
+  <b><i>"--- If You Work Hard, You Can Eat Delicious Food ---"</i></b>
 </p>
 
 ---
 
-<h4> Connect with me: <h4>
+<h3> Connect with me <h3>
+
 <div>
-  <div id="instagram">
-    <a href="https://instagram.com/julianradityaa>
+  <div id="gmail">
+    <a href="https://www.instagram.com/julianradityaa">
       <img src="https://img.shields.io/badge/Instagram-julianradityaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </div>
