@@ -28,7 +28,7 @@
   </div>  
   
   <div id="linkedin">
-    <a href="https://www.linkedin.com/in/julian-raditya/" target="_blank">
+    <a href="https://www.linkedin.com/in/julian-raditya" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Julian%20Raditya%20Putra%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     </div>
