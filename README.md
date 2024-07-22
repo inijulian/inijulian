@@ -40,4 +40,6 @@
 </div>
   <br>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=inijulian.inijulian" />
+
   <h5 align="right">Created with 🖤 by <a href="https://github.com/inijulian">Julian Raditya</a></h5>
